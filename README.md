@@ -10,4 +10,4 @@ Custom in-house parts (3D printed components and useful widgets) are in the Cust
 
 ##Contributors
 ============
-@Unchapped, Nate Chapman, MRSD 2013-2014
+[Unchapped](http://github.com/Unchapped), Nate Chapman, MRSD 2013-2014

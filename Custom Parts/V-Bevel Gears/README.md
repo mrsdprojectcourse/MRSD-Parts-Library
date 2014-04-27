@@ -8,5 +8,5 @@ These are 16 pitch, 1/4" thick, with a 60 degree pitch angle
 I recommend printing them with 3 shells, and at least 25% infill (Makerbot ABS)
 
 ==================
-Designed by Nathaniel Chapman (@Unchapped)
+Designed by Nate Chapman ([Unchapped](http://github.com/Unchapped))
 MRSD Team B, 2013
